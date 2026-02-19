@@ -1,0 +1,12 @@
+# Source PDF (large file, not tracked)
+input.pdf
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
